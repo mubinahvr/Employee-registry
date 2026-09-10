@@ -126,6 +126,7 @@ a { color: inherit; }
   box-shadow: 0 10px 32px rgba(42, 48, 87, .08);
   transition: transform .22s ease, box-shadow .22s ease, border-color .22s ease;
   outline: none;
+
 }
 
 .employee-card::before {
@@ -230,9 +231,9 @@ footer {
   padding: 25px 16px;
   text-align: center;
   border-top: 1px solid #e0e4f0;
-  color: #69738a;
-  font-size: .85rem;
-  background: rgba(255, 255, 255, .88);
+  color: #e0e3e9;
+  font-size: 1.5rem;
+  background: rgba(36, 35, 35, 0.88);
 }
 
 @media (min-width: 640px) {
