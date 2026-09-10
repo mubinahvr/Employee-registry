@@ -1,0 +1,8 @@
+const employees = [
+  { id: 1, name: "Priya Sharma", role: "Frontend Developer", department: "Engineering", email: "priya.sharma@company.com", location: "Bengaluru", status: "Active", avatar: "PS" },
+  { id: 2, name: "Rahul Verma", role: "Sales Manager", department: "Sales", email: "rahul.verma@company.com", location: "Mumbai", status: "Active", avatar: "RV" },
+  { id: 3, name: "Anita Patel", role: "HR Executive", department: "Human Resources", email: "anita.patel@company.com", location: "Pune", status: "Active", avatar: "AP" },
+  { id: 4, name: "Vikram Singh", role: "Marketing Lead", department: "Marketing", email: "vikram.singh@company.com", location: "Delhi", status: "On Leave", avatar: "VS" },
+  { id: 5, name: "Sneha Reddy", role: "Financial Analyst", department: "Finance", email: "sneha.reddy@company.com", location: "Hyderabad", status: "Active", avatar: "SR" }
+];
+export default employees;
